@@ -1,0 +1,27 @@
+﻿.banner
+{
+    width:680px;
+    height:200px;
+    background-color:Purple;
+    }
+    .sol-menu
+    {
+        width:200px;
+        height:500px;
+        background-color:Aqua;
+        float:left;
+        }
+        .orta
+        {
+            width:550px;
+            height:500px;
+            float:left;
+            text-align:center;
+           background-color:Black;
+           color:white;
+            }
+            .centers
+            {
+                text-align:center;
+                }
+            
